@@ -6,9 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import java.util.HashMap;
 
-/**
- * Created by LaunchCode
- */
+
 @Controller
 public class HomeController {
 
